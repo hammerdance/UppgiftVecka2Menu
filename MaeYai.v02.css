@@ -100,6 +100,8 @@ header .header-cases {
 	height: calc(100vh - 100px);
 /*	background-image: url('img/mae1.png');*/
 	background-image: url('img/ThailandKhaoPad.jpg');
+/*	background-image: url( 'img/Untitled_Artwork 2.png'); */
+	
 	background-attachment: fixed; /* parallax effekt*/
 	background-repeat: no-repeat;
 	background-position: center;
